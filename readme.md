@@ -4,7 +4,7 @@ MI-Visual is a Python application utilizing Dash framework.
 
 ## Installation
 
-1. Install Python 3.10+ (https://www.python.org/downloads/release/)
+1. Install Python 3.10+ (https://www.python.org/downloads/)
 2. Run 'installPackages.py'
 
    ### Installs required packages to run app
