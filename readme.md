@@ -1,6 +1,6 @@
-# Data Visualizer
+# MI-Visual
 
-Data Visualizer is Python project built to deal with multi-week experiments
+MI-Visual is a Python project built using Dash framework. 
 
 ## Installation
 
