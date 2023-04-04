@@ -1,6 +1,6 @@
 # MI-Visual
 
-MI-Visual is a Python project built using Dash framework. 
+MI-Visual is a Python application utilizing Dash framework. 
 
 ## Installation
 
