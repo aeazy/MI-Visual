@@ -15,11 +15,11 @@ import assets.functions as fn
 
 app = DashProxy(__name__, assets_folder='assets')
 
-app.title = 'OCM Visual'
+app.title = 'MI-Visual'
 
 app.layout = html.Div(className='page-container', children=[
     html.Div(className='sidebar', children=[
-        html.H1("OCM Visual", id="sidebarHeader"),
+        html.H1("MI-Visual", id="sidebarHeader"),
 
         html.P(id='sidebarInstructions', children="Upload your csv file to begin"),
         
